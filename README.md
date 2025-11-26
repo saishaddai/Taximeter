@@ -1,8 +1,23 @@
 # Taximeter
-Primary source of fare calculation: The taximeter is the primary source of calculating the fare, but taxi drivers are not obliged to use it for all fares. For longer fares or fares going out of the London metropolitan area, drivers may agree on a fixed fare with the passenger.
-Pre-programmed fares: Taximeters contain tables of pre-programmed fares, specifying rates per unit of distance and time, which may vary according to location, local regulations, and calendar.
-Calculation of fare: The taximeter calculates the fare by multiplying distance traveled by the rate per kilometer and time elapsed by the rate per minute, then adding these values together.
-Display of fare: The taximeter displays the fare in real-time on a digital or analog display.
-Printing a receipt (optional): Some taximeters can print a receipt showing the total amount, supplements applied, distance traveled, time elapsed, and other relevant trip details.
-Legal requirement: It is illegal not to use the taximeter to calculate the fare. Taxi drivers must move the taximeter indicator to the recording position when the taxi is hired and return it to the non-recording position when the hiring terminates (Regulation 49(2) of the Road Traffic (Public Service Vehicles) Regulations).
-Consequences of non-compliance: Failure to use the taximeter to calculate the fare is an offence, punishable by a fine of $5,000 and imprisonment for 6 months (Regulation 57(3) of the Road Traffic (Public Service Vehicles) Regulations).
+Welcome to **Taximeter** project!  
+This repository is an Android app to miic a taximeter following certain rules of a country. The idea is create this app completely with the help of some friends. This projects is still in very early stages 
+
+---
+
+## Rules of usage
+- It depends of the country ans city but in general it includes. Since this is early stages, I will add more configurable rules as far as we move along with this project
+
+---
+
+## Links
+- I will add links here to certain rules in countries, if there's an ISO regulation or something like a standar
+
+
+---
+
+## Desings
+- I will use entirely Material 3 (maybe Express to learn about it) and all the screens and modal windows will be provided by Google Stitch 
+    
+
+---
+
