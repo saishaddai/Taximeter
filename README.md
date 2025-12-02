@@ -17,8 +17,7 @@ This repository is an Android app to miic a taximeter following certain rules of
 
 ## Designs
 - I will use entirely Material 3 (maybe Express to learn about it) and all the screens and modal windows will be provided by Google Stitch
-![Design, first approach in night mode](designs/screen.png)  
-    
+<img src="designs/screen.png" alt="Design, first approach in night mode" width="400">
 
 ---
 
